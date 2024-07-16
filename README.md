@@ -1,2 +1,2 @@
 # SQL-Practiceproblems
-Welcome, i Would be uploading the practice problems and solutions for SQL problems I am solving.
+Welcome! I would be uploading the SQL Pratice problems and Solutions in this repository 
